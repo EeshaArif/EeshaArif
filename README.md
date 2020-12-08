@@ -68,4 +68,4 @@ Here are some ideas to get you started:
   <img height="32" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQFUFkZezOxiwrIAMlSMp8uL5bk82N17XzMKQ&usqp=CAU">
 </p>
 
-![](https://github.com/EeshaArif/EeshaArif/blob/master/vendors/winged.jpg)
+![](https://github.com/EeshaArif/EeshaArif/blob/master/vendors/_winged.jpg)
