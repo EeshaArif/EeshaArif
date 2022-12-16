@@ -38,11 +38,7 @@
     <img height="30" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png">
 </p>
 </br>
-<p align="Center" >
-  <a href="https://github-readme-stats.vercel.app/api?username=EeshaArif"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=EeshaArif&hide=contribs&theme=dracula"/>
-  </a>
-</p>
+
 </br>
 
 ![](https://github.com/EeshaArif/EeshaArif/blob/master/vendors/_winged.png)
